@@ -1,0 +1,13 @@
+{
+    "name": "faust-in-atlas",
+    "repo": "lflannery/getheadless-faust",
+    "region": "US-C",
+    "environments": [
+      {
+        "name": "Production",
+        "branch": "main",
+        "wp_environment_name": "comparisonsite"
+      }
+    ]
+  }
+  
